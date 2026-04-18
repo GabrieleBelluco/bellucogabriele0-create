@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER ANIMATO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d0a66&height=220&section=header&text=Gabriele%20Belluco&fontSize=62&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20%C2%B7%20React&descAlignY=58&descSize=18&descColor=a78bfa" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+GabrieleBelluco();+%F0%9F%91%8B;developer.stack+%3D+%5B'Java'%2C+'Spring'%2C+'React'%5D;developer.passion+%3D+'Clean+%26+Testable+Code+%E2%9C%A8';developer.mindset+%3D+'Always+learning...+%F0%9F%9A%80')](https://git.io/typing-svg)
@@ -91,7 +90,7 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-belluco/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellucogabriele0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bellucogabriele0-create)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrieleBelluco)
 
 </div>
 
@@ -99,7 +98,7 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bellucogabriele0-create&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=GabrieleBelluco&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views">
 
 <br><br>
 
