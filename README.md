@@ -8,7 +8,6 @@
 
 ---
 
-
 ```bash
 > name       : Gabriele Belluco
 > role       : Full-Stack Developer
@@ -21,7 +20,6 @@
 Sono un Full-Stack Developer con una formazione solida e una passione per la scrittura di codice **pulito, testabile e mantenibile**. Ho esperienza sia in architetture front-end moderne (React, TypeScript, Redux) che in back-end scalabili con Java e Spring Framework — con test automatizzati via JUnit inclusi nel ciclo di sviluppo, perché il codice non testato non è codice pronto.
 
 ---
-
 
 <details open>
 <summary><b>🎨 Front-End</b></summary>
@@ -70,15 +68,15 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bellucogabriele0-create&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&icon_color=f87171&text_color=fecaca&hide_border=false&rank_icon=github" alt="GitHub Stats">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrieleBelluco&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&icon_color=f87171&text_color=fecaca&hide_border=false&rank_icon=github" alt="GitHub Stats">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellucogabriele0-create&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&text_color=fecaca&hide_border=false" alt="Top Languages">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleBelluco&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=dc2626&title_color=ef4444&text_color=fecaca&hide_border=false" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bellucogabriele0-create&theme=tokyonight&background=0d0d0d&border=dc2626&ring=ef4444&fire=f87171&currStreakLabel=ef4444)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrieleBelluco&theme=tokyonight&background=0d0d0d&border=dc2626&ring=ef4444&fire=f87171&currStreakLabel=ef4444)](https://git.io/streak-stats)
 
 </div>
 
@@ -97,7 +95,6 @@ Sono un Full-Stack Developer con una formazione solida e una passione per la scr
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=GabrieleBelluco&style=for-the-badge&color=dc2626&label=PROFILE+VIEWS" alt="Profile Views">
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:660a0a,50:33000f,100:0d0d0d&height=120&section=footer" width="100%">
 
