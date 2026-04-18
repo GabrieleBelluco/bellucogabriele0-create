@@ -1,64 +1,78 @@
-# Ciao, sono Gabriele Belluco! 👋
+# 👋 Ciao, sono Gabriele Belluco
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Gabriele%20Belluco&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-## 🚀 Full-Stack Developer
+## 🚀 Chi sono
 
-Sono un Full-Stack Developer appassionato, con master presso **Epicode**. Ho una solida base nello sviluppo web, con un'esperienza approfondita sia nello sviluppo front-end moderno che in architetture back-end scalabili.
+Full-Stack Developer con formazione presso **Epicode**.  
+Costruisco applicazioni web complete: dal front-end moderno fino a backend scalabili.
 
-Il mio approccio si basa sulla scrittura di codice pulito, testabile (ho esperienza con JUnit!) e mantenibile. Sono un problem solver creativo e mi piace imparare costantemente nuove tecnologie per restare al passo con l'evoluzione del web.
+🎯 Focus:
+- Applicazioni reali, non esercizi
+- Codice pulito e mantenibile
+- Performance e semplicità
 
 ---
 
-### 🛠️ Il Mio Tech Stack 
+## 💡 Cosa so fare
 
-#### 🟢 Front-End
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/DOM-4DABF7?style=for-the-badge&logo=javascript&logoColor=white" alt="DOM">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-</p>
-
-#### 🟣 Back-End & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
-  <img src="https://img.shields.io/badge/JUnit-C2185B?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-#### 🛠️ Altri Strumenti & Concetti
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white" alt="OOP">
-</p>
+✔️ Sviluppo Front-End moderno (React + TypeScript)  
+✔️ Creazione API REST con Java & Spring  
+✔️ Gestione database relazionali  
+✔️ Testing (JUnit)  
+✔️ Architettura base di applicazioni scalabili  
 
 ---
 
-### 📊 GitHub Stats & Attività
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bellucogabriele0-create&show_icons=true&theme=tokyonight&bg_color=1d013b&title_color=fc1bb7&icon_color=ff00ea" alt="Le mie Statistiche GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellucogabriele0-create&layout=compact&theme=tokyonight&bg_color=1d013b&title_color=fc1bb7" alt="I miei Linguaggi più usati">
+### Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,redux,bootstrap,sass" />
+</p>
+
+### Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
 
-### 📫 Contattami
+## 📂 Progetti Principali
 
-* **LinkedIn:** https://www.linkedin.com/in/gabriele-belluco/
-* **Email:** bellucogabriele0@gmail.com
+👉 Qui devi inserire roba SERIA (questo è il tuo punto debole adesso)
+
+- 🍕 Sistema ordini pizzeria (React + Raspberry Pi + stampa automatica)
+- 📊 Dashboard web (React + API REST)
+- 🔐 Sistema autenticazione utenti (Spring Security)
+
+*(Se non hai questi progetti pubblici → sei invisibile)*
 
 ---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/bellucogabriele0-create?label=Follow&style=social" alt="GitHub followers">
+  <img src="https://github-readme-stats.vercel.app/api?username=bellucogabriele0-create&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellucogabriele0-create&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contatti
+
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriele-belluco/
+- 📧 Email: bellucogabriele0@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bellucogabriele0-create&color=blueviolet" />
 </p>
